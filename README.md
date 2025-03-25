@@ -1,2 +1,3 @@
 # vimrc
-That's my poor config of vimrc fiel
+That's my poor config of vimrc file
+
